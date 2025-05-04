@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "A software engineer",
   summary:
-    "At the start of 2024, I launched Premium Code, [a LeetCode Premium-style platform](#projects) aimed at helping developers prepare for interviews by filtering questions by company. Previously, I completed my [B.E. in Computer Science and Engineering](#education), worked as a [full-stack engineer at Nuvepro](#work), and built several full-stack applications using React and Node.js. I enjoy solving real-world problems through code ",
+    "At the start of 2025, I launched Premium Code, [a LeetCode Premium-style platform](#projects) aimed at helping developers prepare for interviews by filtering questions by company. Previously, I completed my [B.E. in Computer Science and Engineering](#education), worked as a [full-stack engineer at Nuvepro](#work), and built several full-stack applications using React and Node.js. I enjoy solving real-world problems through code ",
   avatarUrl: "/suprith.jpg",
   skills: [
     "React",
